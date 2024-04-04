@@ -4,4 +4,4 @@ This repository contains multiple different educational projects to learn Machin
 
 Currently this repositor Consists : 
 
-    - ML_models_implementation : An introductory repository on how to use specific ML libraries and algorithms
+- ML_models_implementation : An introductory repository on how to use specific ML libraries and algorithms
