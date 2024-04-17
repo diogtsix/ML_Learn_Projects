@@ -1,4 +1,4 @@
-# ML_Learn_Projects
+# **ML_Learn_Projects**
 
 This repository contains multiple different projects regarding **Machine Learning** and **Deep Learning**
 
@@ -11,6 +11,8 @@ Included in this project :
                             1) ML_Supervised_GammaTelescope
                             2) ML_Supervised_SeoulBikeSharing
                             3) ML_Unsupervised_Seeds
+
+# **DeepLearning_Learn_Project**
 
 - DeepLearning_Learn_Project :Multiple Different Projects bulding Neural Network and Machine learning models. Projects utilizing both libraries (TensorFlow, Keras, Pandas.. etc.) and Analytical deriviations of machine learning algorithms.
 
