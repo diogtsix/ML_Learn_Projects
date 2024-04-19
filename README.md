@@ -24,6 +24,8 @@ Included in this project :
                             4) Stochastic_vs_Batch_GD_Analytical
                             5) ANN_Prediction_Customer_churn
                             6) Dropout_Regularization_Neural_Network
+                            7) Handling Imballanced Data (5 Methods to handle Imballanced Data)
+                            8) Convolutional_Neural_Network (For Image dataset)
 
 
 # **Libraries Needed**
