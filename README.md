@@ -26,6 +26,8 @@ Included in this project :
                             6) Dropout_Regularization_Neural_Network
                             7) Handling Imballanced Data (5 Methods to handle Imballanced Data)
                             8) Convolutional_Neural_Network (For Image dataset)
+                            9) CNN_Data_Augmentation (Data augmentation to avoid overfitting)
+                            10) RNN_Word_Embeddings (RNN model for word to vector modelling, training and predictions)
 
 
 # **Libraries Needed**
