@@ -28,7 +28,8 @@ Included in this project :
                             8) Convolutional_Neural_Network (For Image dataset)
                             9) CNN_Data_Augmentation (Data augmentation to avoid overfitting)
                             10) RNN_Word_Embeddings (RNN model for word to vector modelling, training and predictions)
-
+                            11) TensorFLow_Input_Pipeline (Tensorflow Pipeline, cache, prefetch etc.)
+                            12) Quantization_in_Deep_Learning (Quantization for use in EDGE devices, size reduction)
 
 # **Libraries Needed**
 
