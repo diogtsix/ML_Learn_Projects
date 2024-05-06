@@ -31,7 +31,23 @@ Included in this project :
                             11) TensorFLow_Input_Pipeline (Tensorflow Pipeline, cache, prefetch etc.)
                             12) Quantization_in_Deep_Learning (Quantization for use in EDGE devices, size reduction)
 
+
+# **Potato_Disease_App**
+
+- Trained a CNN model for image classification. We classify potato leafs based on type of disease (Early_blight, Healthy, Late_blight). Used FastApi for local host generation and interaction with the model via web. 
+
+- In order to use this model run and train the model from CNN_model_build.ipynb and then run main.py and find your localhost onlne to upload a desired image. For capacity purposes images are not included in this repository and you need to download them from the provided link inside the CNN_model_build.ipynb. 
+
+- Before running the project install the dependences from requirements.
+
+- File-Folder description : 
+
+                            1) api folder : contains the py files to run and create the localhost server
+                            2) model_build : contains the notebook that trains the model
+                            
 # **Libraries Needed**
+
+The following libs are used on all 3 projects. 
 
 - tensorflow
 - pandas
@@ -39,3 +55,8 @@ Included in this project :
 - sklearn
 - seaborn
 - matplotlib
+- fastapi
+- uvicorn
+- python-multipart
+- pillow
+- tensorflow-serving-api
