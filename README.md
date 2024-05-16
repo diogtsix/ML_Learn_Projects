@@ -44,7 +44,22 @@ Included in this project :
 
                             1) api folder : contains the py files to run and create the localhost server
                             2) model_build : contains the notebook that trains the model
-                            
+
+
+# **Reinforcement_Learning**
+
+- This project contains 2 small learning projects to interact with Reinforcement Learning. It includes 2 projects  :
+- As reinforcement learning enviroments we used OpenAI's gymnasium library, which contains ready to use enviroments for training. 
+
+- File-Folder description : 
+
+                            1) **Introductory_to_RL_Blackjack** : Simple reinforcement learning project to train a model to play
+                            blackJack using Q-learning techniques 
+
+                            2) **Inverted_Pendulum_Stabilization_DeepQ_Network** : 
+                            Builded a Deep-Q Network for Deep Reinforcement learning using **PyTorch** and **gymnasium** for inverted pendulum stabilization.
+
+
 # **Libraries Needed**
 
 The following libs are used on all 3 projects. 

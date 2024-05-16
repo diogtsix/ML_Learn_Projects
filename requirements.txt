@@ -14,3 +14,10 @@ python-Levenshtein==0.25.1
 tensorflow-model-optimization
 tensorflow-addons
 notebook
+gymnasium==0.27.0
+tqdm
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+pygame==2.5.2
+collection==0.1.6
